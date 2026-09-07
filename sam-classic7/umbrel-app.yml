@@ -1,0 +1,10 @@
+id: "win7mod-container"
+name: "Classic 7 (Win 10)"
+version: "1.0.0"
+tagline: "Windows 10 modified to look exactly like Windows 7"
+description: "A customized container running Windows 10 LTSC with complete Aero glass themes, retro gadgets, and classic start menus."
+developer: "Community Mods"
+website: "https://github.com/dockur/windows"
+submitter: "Samuel Rosas"
+port: 8006
+path: ""
